@@ -16,4 +16,10 @@ What will I do today?
 - I will learn how to create/design UI/UX with figma and frontend development.
 
 What are my blockers?
-- 
+- None so far.
+
+<img width="1176" height="837" alt="Expectation" src="https://github.com/user-attachments/assets/6b3815ec-d9c0-47d2-99c8-29029a0f906f" />
+- This is the UI I did in figma.
+  
+<img width="1919" height="955" alt="Reality" src="https://github.com/user-attachments/assets/741d9189-3939-423e-ac72-a70e822db451" />
+- This is when I coded it. It's an "Expectation vs Reality" kind of situation...
