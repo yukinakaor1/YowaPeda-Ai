@@ -23,3 +23,15 @@ What are my blockers?
   
 <img width="1919" height="955" alt="Reality" src="https://github.com/user-attachments/assets/741d9189-3939-423e-ac72-a70e822db451" />
 - This is when I coded it. It's an "Expectation vs Reality" kind of situation...
+
+## Week 2 (Day 3), 2/11/26
+
+Morning Stand-Up:
+What did I do yesterday?
+- I designed my AI's UI/UX with figma, then coded it.
+
+What will I do today?
+- API Integration and logic
+
+What are my blockers?
+- I wasn't able to code my UI/UX how I wanted it
