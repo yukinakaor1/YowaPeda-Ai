@@ -41,7 +41,7 @@ What are my blockers?
 - FINALLY! A working chatbot of my characters!
 
 
-Week 2 (Day 4), 2/12/26
+## Week 2 (Day 4), 2/12/26
 
 Morning Stand-Up:
 What did I do yesterday?
@@ -54,3 +54,9 @@ What will I do today?
 What are my blockers?
 - Repetetive error in my code
 - I wasn't able to deploy my code smoothly
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-12 151144" src="https://github.com/user-attachments/assets/91defdf9-cbdf-4861-8f27-e53b0f4157f3" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-12 151153" src="https://github.com/user-attachments/assets/ae226621-48a2-4117-bd06-6979b10cbd31" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-12 151200" src="https://github.com/user-attachments/assets/f41602a6-df07-4bb2-812e-dbe87150bab6" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-12 151216" src="https://github.com/user-attachments/assets/3c1049af-323f-48b9-87db-7c83292989eb" />
+- My polished persona-based AI. With a landing page, about section and a brief character profile.
