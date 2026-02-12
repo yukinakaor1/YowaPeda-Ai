@@ -40,3 +40,17 @@ What are my blockers?
 <img width="1920" height="1032" alt="Screenshot 2026-02-11 152301" src="https://github.com/user-attachments/assets/ad44408e-b423-4f53-922d-80842b26684e" />
 - FINALLY! A working chatbot of my characters!
 
+
+Week 2 (Day 4), 2/12/26
+
+Morning Stand-Up:
+What did I do yesterday?
+- I continue doing my code
+- I connected my code with an API Key
+  
+What will I do today?
+- Quality Assurance & Polish
+
+What are my blockers?
+- Repetetive error in my code
+- I wasn't able to deploy my code smoothly
