@@ -73,3 +73,6 @@ What will I do today?
 
 What are my blockers?
 - None
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-13 094953" src="https://github.com/user-attachments/assets/b18542b8-be45-4d0e-afef-f686b0424f25" />
+
