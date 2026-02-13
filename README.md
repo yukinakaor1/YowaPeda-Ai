@@ -60,3 +60,16 @@ What are my blockers?
 <img width="1920" height="1080" alt="Screenshot 2026-02-12 151200" src="https://github.com/user-attachments/assets/f41602a6-df07-4bb2-812e-dbe87150bab6" />
 <img width="1920" height="1080" alt="Screenshot 2026-02-12 151216" src="https://github.com/user-attachments/assets/3c1049af-323f-48b9-87db-7c83292989eb" />
 - My polished persona-based AI. With a landing page, about section and a brief character profile.
+
+
+## Week 2 (Day 5), 2/13/26
+
+Morning Stand-Up:
+What did I do yesterday?
+- I was able to finish my code
+
+What will I do today?
+- Deployment & Demo Day
+
+What are my blockers?
+- None
